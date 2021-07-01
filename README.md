@@ -3,7 +3,12 @@
   - pandas
   - sklearn
   - catboost
+  - matplotlib, seaborn
 - Tasks
   - Data processing
   - Data exploration
+  - Feature selection
   - Building models
+    - Logistic regression
+    - Random forest
+    - Gradient boostiong
