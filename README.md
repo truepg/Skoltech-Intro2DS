@@ -9,6 +9,7 @@
   - Data exploration
   - Feature selection
   - Building models
+    - Linear regression
     - Logistic regression
     - Random forest
     - Gradient boostiong
