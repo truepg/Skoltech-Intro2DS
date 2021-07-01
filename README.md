@@ -1,5 +1,4 @@
 # Intro to Data Science by Skoltech
-## Assignments
 
 - Tools
   - pandas
@@ -11,7 +10,3 @@
   - Data exploration
   - Feature selection
   - Building models
-    - Linear regression
-    - Logistic regression
-    - Random forest
-    - Gradient boostiong
