@@ -1,2 +1,1 @@
-# Skoltech course. Intro to Data Science.
-Pandas, sklearn.
+# Intro to Data Science by Skoltech
